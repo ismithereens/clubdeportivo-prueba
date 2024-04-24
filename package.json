@@ -1,0 +1,17 @@
+{
+  "name": "prueba_clubdeportivo",
+  "version": "1.0.0",
+  "description": "Prueba Final Modulo M6",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node --watch index.js"
+  },
+  "author": "Christian Ortega",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  }
+}
